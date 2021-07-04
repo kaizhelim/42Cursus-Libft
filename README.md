@@ -1,6 +1,11 @@
 # 42Cursus-Libft
 Recoding a few functions of the C standard library as well as some other utility functions that will be used during the whole 42 Cursus.
 
+[//]: # (This page have to be re-organised, I don't like the current pattern!)
+
+### Final Grades
+<image src = "https://user-images.githubusercontent.com/76621210/124388123-fb969900-dd13-11eb-8bed-d352d04c653c.png" width=150>
+
 ### Files and Libraries
 - Makefile: [Makefile](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md)
 - Headers : [libft.h](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md)
