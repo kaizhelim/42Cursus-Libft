@@ -40,4 +40,16 @@ Libc Functions
 |  23 | [ft_calloc](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/ft_calloc.c)  | void	\*ft_calloc(size_t count, size_t size);                         |      |
 |  24 | [ft_strdup](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/ft_strdup.c)  | char	\*ft_strdup(const char \*s1);                                   |      |
 
-
+Additional Functions
+| No. | Functions                                                                              | Prototypes                                                            | Description |
+| :-: | :------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :---------- |
+|  1  | [ft_substr](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md)     | char *ft_substr(char const *s, unsigned int start, size_t len); |      |
+|  2  | [ft_strjoin](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md)    | char *ft_strjoin(char const *s1, char const *s2);               |      |
+|  3  | [ft_strtrim](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md)    | char *ft_strtrim(char const *s1, char const *set);              |      |
+|  4  | [ft_split](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md)      | char **ft_split(char const *s, char c);                         |      |
+|  5  | [ft_itoa](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md)       | char *ft_itoa(int n);                                           |      |
+|  6  | [ft_strmapi](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md)    | char *ft_strmapi(char const *s, char (*f)(unsigned int, char)); |      |
+|  7  | [ft_putchar_fd](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md) | void ft_putchar_fd(char c, int fd);                             |      |
+|  8  | [ft_putstr_fd](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md)  | void ft_putstr_fd(char *s, int fd);                             |      |
+|  9  | [ft_putendl_fd](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md) | void ft_putendl_fd(char *s, int fd);                            |      |
+|  10 | [ft_putnbr_fd](https://github.com/kaizhelim/42Cursus-Libft/blob/main/libft/README.md)  | void ft_putnbr_fd(int n, int fd);                               |      |  
