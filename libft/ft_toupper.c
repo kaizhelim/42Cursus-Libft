@@ -16,3 +16,8 @@ int	ft_toupper(int c)
 		c -= ('a' - 'A');
 	return (c);
 }
+
+/*
+** Change a lower case letter (single character) to upper case.
+** Otherwise, no changes is made.
+*/
